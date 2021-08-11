@@ -11,7 +11,7 @@
               background-attachment: fixed;  
               background-size: 100%,100%;
             }
-            h1 { margin-right: 100px;
+            h1 { margin-right: 1100px;
             border-style: solid;
             border-radius: 5px;
             border-color: red;
@@ -19,7 +19,7 @@
             p {border-style: solid;
                border-color: red;
                border-radius: 5px;
-               margin-right: 300px;}
+               margin-right: 1300px;}
         </style>
     </head>
     <body>
